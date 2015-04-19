@@ -1,0 +1,22 @@
+/** 
+* GAME.CSS
+* Used for game UI and context. (all in-game content is made via html5's canvas)
+**/
+
+html{
+	width:100%;
+	text-align:center;
+	background:black;
+	color: white;
+}
+
+a{
+	text-decoration:none;
+	color:Gold;
+}
+
+#game{
+	-moz-box-shadow: 0 0 8px silver;
+	-webkit-box-shadow: 0 0 8px silver;
+	box-shadow: 0 0 8px silver;
+}

@@ -1,0 +1,60 @@
+html
+{
+	text-align:center;
+	background:black;
+	color:White;
+}
+
+#game
+{
+	letter-spacing:0.1px;
+	border:solid silver 1px;
+	cursor:pointer;
+	background:Blue;
+}
+
+#footer{
+	font-family:'gameFont';
+	font-size:3em;
+	color:White;
+}
+
+h1{
+	font-family:'gameFont';
+	font-size:4em;
+	margin-bottom:-10px;
+}
+
+h2{
+	font-family:'gameFont';
+	font-size:5em;
+	color:Gold;
+}
+
+a:visited{
+	color:white;
+}
+
+footer{
+		
+	
+}
+
+#textBox{	
+	color:white;
+	font-family:'gamefont';
+	font-size: 2em;
+	position:absolute;
+}
+
+@font-face {
+  font-family: 'gamefont';
+  src: url('./resources/font/gamefont.ttf');
+}
+
+footer
+{
+	margin-top:20px;
+	font-size:0.8em;
+	font-style:italic;
+}

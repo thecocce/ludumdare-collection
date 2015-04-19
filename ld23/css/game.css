@@ -1,0 +1,63 @@
+html
+{
+	text-align:center;
+	background:#6fcbf3;
+	color:White;
+	width:100%;
+	margin: 0 auto;
+	padding-top:30px;
+}
+
+#gameDiv
+{
+	letter-spacing:0.1px;
+	background:#6fcbf3; /* Sky color */
+	width:640px;
+	height:384px;
+	margin:0 auto;
+	border:solid white 2px;
+	-moz-box-shadow: 0 0 5px black;
+	-webkit-box-shadow: 0 0 5px black;
+	box-shadow: 0 0 5px black;
+}
+
+
+
+#footer{
+	font-size:3em;
+	color:White;
+}
+
+h1{
+	font-size:4em;
+	margin-bottom:-10px;
+}
+
+h2{
+	font-family:'gameFont';
+	font-size:5em;
+	color:Gold;
+}
+
+a:visited{
+	color:white;
+}
+
+footer{
+		
+	
+}
+
+#textBox{	
+	color:white;
+	font-size: 2em;
+	position:absolute;
+}
+
+
+footer
+{
+	margin-top:20px;
+	font-size:0.8em;
+	font-style:italic;
+}
